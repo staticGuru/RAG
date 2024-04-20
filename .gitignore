@@ -1,5 +1,6 @@
 chroma_*
 chroma
 .DS_Store
-tutorial-env
 .env
+.env.development
+tutorial-env
